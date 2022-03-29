@@ -1,0 +1,131 @@
+/*header*/
+body {
+    background-color: #F6F8F9;
+}
+.logo1 {
+    margin-top: 20px;
+    margin-right: 92px;
+    margin-left: 20px;
+    vertical-align: center;
+}
+.navigation {
+    display: inline-block;
+}
+.nav-li {
+    display: inline-block;
+    margin-top: 22px;
+    margin-right: 27px;
+    vertical-align: center;
+    font-size: 11px;
+}
+.nav-a {
+    color: #343638;
+}
+.logo2 {
+    margin-top: 11px;
+    margin-left: 13px;
+    vertical-align: center;
+}
+/*section1*/
+.block-h {
+    margin-top: 42px;
+    margin-left: 140px;
+    font-size: 24px;
+
+}
+.left-div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 360px;
+    height: 350px;
+    margin-top: 40px;
+    margin-left: 140px;
+    background-color: #FFFFFF;
+}
+.middle-div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 360px;
+    height: 350px;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-color: #FFFFFF;
+}
+.right-div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 360px;
+    height: 350px;
+    margin-top: 40px;
+    background-color: #FFFFFF;
+}
+.left1 {
+    display: inline-block;
+    position: relative;
+}
+.left-p {
+    position: absolute;
+    top: 28px;
+    bottom: 306px;
+    left: 40px;
+    color: #FFFFFF;
+}
+.block-p {
+    width: 280px;
+    height: 38px;
+    margin: 0 auto;
+    margin-top: 66px;
+    font-size: 13px;
+    color: #A6ADB4;
+}
+/*section2*/
+.block-h2 {
+    margin-top: 58px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+.big-div1 {
+    display: inline-block;
+    width: 760px;
+    height: 900px;
+    margin-left: 140px;
+    margin-right: 40px;
+    vertical-align: middle;
+}
+.little-div {
+    position: relative;
+    display: inline-block;
+}
+.text {
+    position: absolute;
+    top: 394px;
+    left: 569px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.image1 {
+    margin-bottom: 40px;
+}
+.big-div2 {
+    display: inline-block;
+    width: 360px;
+    height: 896px;
+    vertical-align: middle;
+}
+.little-div2 {
+    position: relative;
+    display: inline-block;
+}
+.text2 {
+    position: absolute;
+    top: 18px;
+    left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.image4 {
+    margin-top: 102px;
+    margin-bottom: 102px;
+}
